@@ -245,3 +245,11 @@ latex_elements = {
 
 # How to display URL addresses: 'footnote', 'no', or 'inline'.
 #texinfo_show_urls = 'footnote'
+
+html_context = {
+    "display_github": True, # Integrate GitHub
+    "github_user": "comporu", # Username
+    "github_repo": "compo-docs", # Repo name
+    "github_version": "master", # Version
+    "conf_py_path": "/docs/", # Path in the checkout to the docs root
+}

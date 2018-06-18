@@ -1,9 +1,4 @@
-.. Compo Docs documentation master file, created by
-   sphinx-quickstart on Mon Jun 18 12:08:55 2018.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
-Welcome to Compo Docs's documentation!
+Welcome to CompoSymfonyCms Docs's!
 ======================================
 
 .. toctree::
@@ -11,10 +6,5 @@ Welcome to Compo Docs's documentation!
    :caption: Contents:
 
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+* :ref:`compo-core`
+* :ref:`compo-ecommerce`
