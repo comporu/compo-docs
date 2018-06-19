@@ -1,5 +1,6 @@
 # CompoSymfonyCms Docs
 
+See http://docs.compo-symfony-cms.ru
 
 ## Build
 
