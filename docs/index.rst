@@ -1,4 +1,4 @@
-Welcome to CompoSymfonyCms Docs's!
+CompoSymfonyCms Docs's!
 ======================================
 
 * `CompoDocs <http://docs.compo-symfony-cms.ru>`_: main documentation.
