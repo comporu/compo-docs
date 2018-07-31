@@ -1,7 +1,7 @@
 CompoSymfonyCms Docs's!
 ======================================
 
-* `CompoDocs <http://docs.compo-symfony-cms.ru>`_: main documentation.
+* CompoDocs: main documentation.
 * `CompoCore <http://docs.compo-symfony-cms.ru/projects/compo-core>`_: contains core libraries, services and bundles.
 * `CompoEcommerce <http://docs.compo-symfony-cms.ru/projects/compo-ecommerce>`_: contains e-commerce bundles
 
